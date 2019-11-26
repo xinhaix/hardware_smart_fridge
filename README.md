@@ -1,0 +1,1 @@
+# hardware_smart_fridge
